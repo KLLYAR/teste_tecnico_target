@@ -10,16 +10,13 @@
 
 # imprimir(SOMA);
 
-# Ao final do processamento, qual será o valor da variável SOMA?
+# Ao final do processamento, qual será o valor da variável SOMA? 91
 
-indice = 13
-soma = 0 
-k = 0
+indice = 13; soma = 0; k = 0
 
 while(k < indice):
 
     k = k + 1
     soma = soma + k
     
-
 print(soma)
